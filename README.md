@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koel Biswas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koelbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="koelbiswas" /> </p>
 
-- 🌱 I’m currently pursuing **btech(2019-2023)**
+- 🌱 I’m currently pursuing **btech in CSE(2019-2023)**
 
 - 📫 How to reach me **koelbiswas459@gmail.com**
 
